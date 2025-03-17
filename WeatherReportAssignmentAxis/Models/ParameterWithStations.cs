@@ -1,9 +1,10 @@
-﻿using System.Collections.Generic;
-
-namespace WeatherReportAssignmentAxis.Models
+﻿namespace WeatherReportAssignmentAxis.Models
 {
+    /// <summary>
+    /// Represents parameter data including associated stations (e.g., temperature stations).
+    /// </summary>
     public class ParameterWithStations
     {
-        public List<StationMetadata> Station { get; set; } = new List<StationMetadata>();
+        public List<StationMetadata> Station { get; set; } = new(); // Initialized to prevent nulls
     }
 }

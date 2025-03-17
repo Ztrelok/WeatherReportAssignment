@@ -1,9 +1,13 @@
-﻿using System.Collections.Generic;
-
-namespace WeatherReportAssignmentAxis.Models
+﻿namespace WeatherReportAssignmentAxis.Models
 {
+    /// <summary>
+    /// Represents weather observation data for temperature or rainfall.
+    /// </summary>
     public class ObservationData
     {
-        public List<ValueEntry> Value { get; set; }
+        /// <summary>
+        /// Observation values. May be null if no data exists for the time period.
+        /// </summary>
+        public List<ValueEntry>? Value { get; set; }
     }
 }

@@ -1,14 +1,8 @@
 using System.Net;
-using System.Net.Http;
-using System.Threading;
-using System.Threading.Tasks;
 using Moq;
 using Moq.Protected;
 using WeatherReportAssignmentAxis.Services;
-using Xunit;
 using System.Text;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.DependencyInjection;
 
 public class RainfallTests
 {
