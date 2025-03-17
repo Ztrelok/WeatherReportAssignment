@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|c:\\users\\alexcherr\\source\\repos\\weatherreportassignmentaxis\\weatherreportassignmentaxis\\services\\weatherreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|solutionrelative:weatherreportassignmentaxis\\services\\weatherreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|c:\\users\\alexcherr\\source\\repos\\weatherreportassignmentaxis\\weatherreportassignmentaxis\\services\\smhiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|solutionrelative:weatherreportassignmentaxis\\services\\smhiapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|c:\\users\\alexcherr\\source\\repos\\weatherreportassignmentaxis\\weatherreportassignmentaxis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|solutionrelative:weatherreportassignmentaxis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|c:\\users\\alexcherr\\source\\repos\\weatherreportassignmentaxis\\weatherreportassignmentaxis\\models\\stationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|solutionrelative:weatherreportassignmentaxis\\models\\stationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|c:\\users\\alexcherr\\source\\repos\\weatherreportassignmentaxis\\weatherreportassignmentaxis\\models\\valueentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|solutionrelative:weatherreportassignmentaxis\\models\\valueentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|c:\\users\\alexcherr\\source\\repos\\weatherreportassignmentaxis\\weatherreportassignmentaxis\\models\\stationmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|solutionrelative:weatherreportassignmentaxis\\models\\stationmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|c:\\users\\alexcherr\\source\\repos\\weatherreportassignmentaxis\\weatherreportassignmentaxis\\models\\parameterwithstations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|solutionrelative:weatherreportassignmentaxis\\models\\parameterwithstations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|c:\\users\\alexcherr\\source\\repos\\weatherreportassignmentaxis\\weatherreportassignmentaxis\\models\\observationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B99F75C7-3C5C-48DB-A290-B80513A03D51}|WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj|solutionrelative:weatherreportassignmentaxis\\models\\observationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,79 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Program.cs",
-              "RelativeDocumentMoniker": "WeatherReportAssignmentAxis\\Program.cs",
-              "ToolTip": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Program.cs",
-              "RelativeToolTip": "WeatherReportAssignmentAxis\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "WeatherReportService.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Services\\WeatherReportService.cs",
+              "RelativeDocumentMoniker": "WeatherReportAssignmentAxis\\Services\\WeatherReportService.cs",
+              "ToolTip": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Services\\WeatherReportService.cs",
+              "RelativeToolTip": "WeatherReportAssignmentAxis\\Services\\WeatherReportService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAnwGwAAAB8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:07:37.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValueEntry.cs",
-              "DocumentMoniker": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\ValueEntry.cs",
-              "RelativeDocumentMoniker": "WeatherReportAssignmentAxis\\Models\\ValueEntry.cs",
-              "ToolTip": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\ValueEntry.cs",
-              "RelativeToolTip": "WeatherReportAssignmentAxis\\Models\\ValueEntry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:06:51.818Z",
+              "WhenOpened": "2025-03-17T14:21:59.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StationResponse.cs",
-              "DocumentMoniker": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\StationResponse.cs",
-              "RelativeDocumentMoniker": "WeatherReportAssignmentAxis\\Models\\StationResponse.cs",
-              "ToolTip": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\StationResponse.cs",
-              "RelativeToolTip": "WeatherReportAssignmentAxis\\Models\\StationResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Title": "SmhiApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Services\\SmhiApiClient.cs",
+              "RelativeDocumentMoniker": "WeatherReportAssignmentAxis\\Services\\SmhiApiClient.cs",
+              "ToolTip": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Services\\SmhiApiClient.cs",
+              "RelativeToolTip": "WeatherReportAssignmentAxis\\Services\\SmhiApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:06:45.565Z",
+              "WhenOpened": "2025-03-17T14:21:59.023Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StationMetadata.cs",
-              "DocumentMoniker": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\StationMetadata.cs",
-              "RelativeDocumentMoniker": "WeatherReportAssignmentAxis\\Models\\StationMetadata.cs",
-              "ToolTip": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\StationMetadata.cs",
-              "RelativeToolTip": "WeatherReportAssignmentAxis\\Models\\StationMetadata.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherReportAssignmentAxis\\Program.cs",
+              "ToolTip": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Program.cs",
+              "RelativeToolTip": "WeatherReportAssignmentAxis\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:06:36.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ParameterWithStations.cs",
-              "DocumentMoniker": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\ParameterWithStations.cs",
-              "RelativeDocumentMoniker": "WeatherReportAssignmentAxis\\Models\\ParameterWithStations.cs",
-              "ToolTip": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\ParameterWithStations.cs",
-              "RelativeToolTip": "WeatherReportAssignmentAxis\\Models\\ParameterWithStations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:06:12.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ObservationData.cs",
-              "DocumentMoniker": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\ObservationData.cs",
-              "RelativeDocumentMoniker": "WeatherReportAssignmentAxis\\Models\\ObservationData.cs",
-              "ToolTip": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\Models\\ObservationData.cs",
-              "RelativeToolTip": "WeatherReportAssignmentAxis\\Models\\ObservationData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T14:05:58.841Z",
+              "WhenOpened": "2025-03-17T14:07:37.068Z",
               "EditorCaption": ""
             }
           ]

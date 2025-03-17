@@ -46,7 +46,8 @@ namespace WeatherReportAssignmentAxis
 
                         if (temp.HasValue)
                         {
-                            tempResults.TryAdd(station.Name, temp.Value); // Safe concurrent write
+                            var stationName = station.Name ?? $"Station_{station.Id}";
+                            tempResults.TryAdd(stationName, temp.Value);
                         }
                         else
                         {
@@ -103,9 +104,9 @@ namespace WeatherReportAssignmentAxis
             {
                 var stations = await _smhiClient.GetAllStationsAsync();
 
-                // Find station by exact or partial name match
-                var station = stations.FirstOrDefault(s => s.Name.Equals(cityName, StringComparison.OrdinalIgnoreCase))
-                    ?? stations.FirstOrDefault(s => s.Name.Contains(cityName, StringComparison.OrdinalIgnoreCase));
+                // Find station by exact or partial name match, safely handling null names
+                var station = stations.FirstOrDefault(s => s.Name?.Equals(cityName, StringComparison.OrdinalIgnoreCase) == true)
+                    ?? stations.FirstOrDefault(s => s.Name?.Contains(cityName, StringComparison.OrdinalIgnoreCase) == true);
 
                 if (station == null)
                 {
