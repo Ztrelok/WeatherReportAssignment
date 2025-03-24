@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj": {
-                "projectPath": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj"
+              "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignment.csproj": {
+                "projectPath": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignment.csproj"
               }
             }
           }
@@ -99,12 +99,12 @@
         }
       }
     },
-    "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj": {
+    "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj",
-        "projectName": "WeatherReportAssignmentAxis",
-        "projectPath": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis.csproj",
+        "projectUniqueName": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignment.csproj",
+        "projectName": "WeatherReportAssignment",
+        "projectPath": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\WeatherReportAssignment.csproj",
         "packagesPath": "C:\\Users\\ALEXCHERR\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ALEXCHERR\\source\\repos\\WeatherReportAssignmentAxis\\WeatherReportAssignmentAxis\\obj\\",
         "projectStyle": "PackageReference",

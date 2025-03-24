@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WeatherReportAssignmentAxis\WeatherReportAssignmentAxis.csproj" />
+    <ProjectReference Include="..\WeatherReportAssignmentAxis\WeatherReportAssignment.csproj" />
   </ItemGroup>
 
 </Project>
